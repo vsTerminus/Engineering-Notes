@@ -23,5 +23,5 @@ Elite: Dangerous Engineers unlock and gathering notes
 
 # Engineers
 
-- [Felicity Farseer](Felicity-Farseer.md)
-- [The Dweller](The-Dweller.md)
+- [Felicity Farseer](Felicity-Farseer.md) (Frameshift Drive)
+- [The Dweller](The-Dweller.md) (Distributor, Lasers)
