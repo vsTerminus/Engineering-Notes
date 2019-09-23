@@ -1,6 +1,6 @@
 # Unlock
 
-## Acquire one unit of Meta-Alloys
+### Acquire one unit of Meta-Alloys
   - You can buy one in Darnielle's Progress in the Maia system
     - Go to Maia, honk every system along the way with your basic discovery scanner
     - In Maia, lock on to the Nav Beacon and drop out of supercruise next to it like you would a station.
@@ -19,14 +19,14 @@
 
 # Gathering Mats
 
-## Atypical Wake Echoes, Strange Wake Solutions, Eccentric Hyperspace Trajectories, Datamined Wake Exceptions
+### Atypical Wake Echoes, Strange Wake Solutions, Eccentric Hyperspace Trajectories, Datamined Wake Exceptions
 
 - Go to **Ray Gateway in Diaguandri** (or some other very busy station you know of), dock, then go back outside and start scanning high wakes from ships leaving the area.
 - Datamined Wake Exceptions are the most rare. You will need roughly 10 of them per ship you want to fully upgrade.
 - You can also trade for more of them at an Encoded Material Trader. [Use INARA to find one.](https://inara.cz/galaxy-nearest/25/17362/).
   - Ray Gateway has an Encoded Material Trader. Find it in the Contacts Menu.
 
-## Chemical Processors, Chemical Distillery, Chemical Manipulators
+### Chemical Processors, Chemical Distillery, Chemical Manipulators
 
 - Go to **HYADES SECTOR DR-V C2-23** and scan planet **A 5** with your Detailed Surface Scanner
 - Located **Dav's Hope** and land there. It does not have landing pads, just land on the ground somewhere in or around the base.
@@ -36,7 +36,7 @@
 - Here is a map of Dav's Hope, credit CMDR Loch147
   ![Dav's Hope Resource Map](Davs_Hope.png)
 
-## Phosphorus, Manganese, Arsenic
+### Phosphorus, Manganese, Arsenic
 
 - These are all resources you will get from mining, so if you have done that you probably already have lots of Phosphorus and Manganese. Arsenic is quite rare, you probably won't already have any.
 - For **Arsenic** you have two choices:
