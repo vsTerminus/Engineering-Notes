@@ -47,3 +47,13 @@ Below are steps to gether materials requires for the [Increased Range Blueprint]
 - Go to one of these planets and land your ship. Deploy your SRV.
 - Drive around and look for blips on your radar. Drive towards them. When you find a rock you can target, blast it and collect whatever comes out of the rock.
 - You will need approx. 10 Arsenic per ship you want to upgrade. I found about 16 Arsenic in an hour.
+
+# Experimental Effects
+
+- Check out this [Mass Manager vs Deep Charge](https://forums.frontier.co.uk/threads/mass-manager-vs-deep-charge.403010/) forum thread.
+- TL;DR: Class 5 or larger takes Mass Manager, Class 4 or smaller take Deep Charge.
+
+# Other Notes
+
+- You're probably wanting to upgrade the pathetic jump range of your combat ship. You don't have to fly it out here by hand. If you have the cash, dock at another station in the system and use Ship Transfer to bring your combat boat to Deciat before you leave to collect materials.
+- You can pin the blueprint at Farseer and then use Remote Engineering from any station anywhere, but it won't let you pick an Experimental Effect that way and you will definitely want that on your combat ship. So get it out here one way or another.
