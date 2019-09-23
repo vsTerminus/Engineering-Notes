@@ -19,14 +19,6 @@
 
 # Gathering Mats
 
-## INARA.cz (Recommended, Optional)
-
-- Sign up for an [INARA.cz](https://inara.cz) account
-- Use the "Import Frontier Data" button to bring in all of your fleet and inventory information
-  - Now INARA can see how many of each material/resource you have for crafting.
-- Use [the Felicity Farseer INARA page](https://inara.cz/galaxy-engineer/1/) to view the various blueprints and the materials required for each.
-  - Specifically, [Increased Range](https://inara.cz/galaxy-blueprint/2/) is why you are here.
-
 ## Atypical Wake Echoes, Strange Wake Solutions, Eccentric Hyperspace Trajectories, Datamined Wake Exceptions
 
 - Go to **Ray Gateway in Diaguandri** (or some other very busy station you know of), dock, then go back outside and start scanning high wakes from ships leaving the area.
