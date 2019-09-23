@@ -23,4 +23,5 @@ Elite: Dangerous Engineers unlock and gathering notes
 
 # Engineers
 
-- [Felicity Farseer](https://github.com/vsTerminus/Engineering-Notes/blob/master/Felicity-Farseer.md)
+- [Felicity Farseer](Felicity-Farseer.md)
+- [The Dweller](The-Dweller.md)
