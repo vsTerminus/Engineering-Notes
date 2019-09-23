@@ -42,7 +42,7 @@
   - After each lap, log out to the main menu and back in again. This is most easily done in Solo.
 - Chemical Manipulators are the most rare. Continue this loop until you have ~10 per ship you want to upgrade.
 - Here is a map of Dav's Hope, credit CMDR Loch147
-  ![Dav's Hope Resource Map](https://i.redd.it/jak5olaegui01.png)
+  ![Dav's Hope Resource Map](Davs_Hope.png)
 
 ## Phosphorus, Manganese, Arsenic
 
