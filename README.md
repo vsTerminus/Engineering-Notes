@@ -3,7 +3,7 @@ Elite: Dangerous Engineers unlock and gathering notes
 
 # Recommendeded Equipment
 
-## Ship
+### Ship
 
 - Fast ship with good jump range and decent internals for a varied, multipurpose loadout.
   - Asp Explorer and Diamondback Explorer come to mind
@@ -14,7 +14,7 @@ Elite: Dangerous Engineers unlock and gathering notes
 - 1-2 SRVs
 - A good fuel scoop, you'll need it
 
-## INARA.cz Account
+### INARA.cz Account
 
 - Sign up for an [INARA.cz](https://inara.cz) account
 - Use the "Import Frontier Data" button to bring in all of your fleet and inventory information
