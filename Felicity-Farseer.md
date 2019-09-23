@@ -19,6 +19,8 @@
 
 # Gathering Mats
 
+Below are steps to gether materials requires for the [Increased Range Blueprint](https://inara.cz/galaxy-blueprint/2/). 
+
 ### Atypical Wake Echoes, Strange Wake Solutions, Eccentric Hyperspace Trajectories, Datamined Wake Exceptions
 
 - Go to **Ray Gateway in Diaguandri** (or some other very busy station you know of), dock, then go back outside and start scanning high wakes from ships leaving the area.
