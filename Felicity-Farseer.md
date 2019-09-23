@@ -34,7 +34,7 @@ Below are steps to gether materials requires for the [Increased Range Blueprint]
 - Located **Dav's Hope** and land there. It does not have landing pads, just land on the ground somewhere in or around the base.
 - Deploy your SRV, open your cargo scoop, and drive laps around the base picking up the resources that are just laying on the ground.
   - After each lap, log out to the main menu and back in again. This is most easily done in Solo.
-- Chemical Manipulators are the most rare. Continue this loop until you have ~10 per ship you want to upgrade.
+- Chemical Manipulators are the most rare. Continue this loop until you have ~15-20 per ship you want to upgrade.
 - Here is a map of Dav's Hope, credit CMDR Loch147
   ![Dav's Hope Resource Map](Davs_Hope.png)
 
